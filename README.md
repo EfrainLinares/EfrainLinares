@@ -8,7 +8,7 @@ Soy Data Science, Data Analytics y Data Engineering, con una sólida experiencia
 # Acerca de mi #
 - 🌍 Ubicación: Venezuela
 - 🔧 Habilidades técnicas: Python, SQL, Power BI, Tableau, MSSQL, Docker Spark, Hadoop, Apache, Machine Learning
-- 📊 Experiencia: Análisis de datos, creación de pipelines ETL, , y modelado de Machine Learning en la nube. Actualmente perfecciono mis habilidades en herramientas avanzadas de Data Analytics y Data science.
+- 📊 Experiencia: Análisis de datos, creación de pipelines ETL, y modelado de Machine Learning en la nube. Actualmente perfecciono mis habilidades en herramientas avanzadas de Data Analytics y Data science.
 
 💡 Además de mi pasión por los datos, disfruto de la lectura y me encanta la musica. 
 
